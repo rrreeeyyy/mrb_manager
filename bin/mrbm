@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'mrb_manager/cli'
+
+MrbManager::CLI.start
