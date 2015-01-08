@@ -1,5 +1,7 @@
 # mrb\_manager
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rrreeeyyy/mrb_manager?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 mruby binary manager having a affinity for mgem
 
 ## Installation
